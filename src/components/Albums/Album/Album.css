@@ -1,0 +1,37 @@
+  
+
+
+   
+  
+  .card{
+    
+    border-radius: 3px;
+    border-color: #E84E0F !important;
+    margin-bottom: 1rem;
+    background-color: #fff;
+    font-family: "Oswald", sans-serif;
+    
+  
+  }
+  
+  
+  .img {
+    padding: 0.25rem;
+    background-color: #fff;
+    border-radius: 0.25rem;
+    object-fit: cover;
+  }
+  
+  .text-muted {
+    color: #98a6ad !important;
+  }
+  h4 {
+    padding-top: 0.25rem;
+    line-height: 1.5rem;
+    font-size: 1rem;
+    color:#E84E0F;
+    
+  }
+
+
+

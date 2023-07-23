@@ -1,0 +1,32 @@
+.card-title {
+    font-size: clamp(1.25rem, 2vw + 1rem, 3rem);
+    text-align: left;
+    color: #E84E0F;
+    font-weight: 400;
+    
+
+}
+
+.card-text {
+    font-size: 1.25rem;
+    color:rgb(22, 21, 21);
+    text-align: left;
+    
+
+}
+
+.card-body {
+    padding-left: 1.5rem !important;
+    padding-right: 1.5rem !important;
+}
+
+.text-muted {
+    color: #E84E0F;
+    text-align: right;
+}
+
+i {
+    color: #E84E0F;
+    font-size: 2rem;
+}
+

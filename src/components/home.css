@@ -1,0 +1,45 @@
+.container {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.titulo-shows {
+    font-family: "Oswald", sans-serif ;
+    font-size: clamp(1rem, 1.3rem + 1.6vw, 3rem);
+    font-weight: 400;
+    color: #E84E0F ;
+}
+
+
+.article {
+border: 2px solid rgb(224, 59, 18);
+   
+}
+
+.tarjetas{
+    padding: 0.5rem;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    
+}
+
+
+#imagehero {
+    width: 100%;
+    height: auto;
+    
+}
+
+.hero-text {
+    text-align: left !important;
+    font-family: "Raleway", sans-serif !important;
+    font-size: clamp(0.75rem, 0.5rem + 1.25vw, 1.5rem);
+    line-height: 2rem;
+}
+
+#titulo-hero {
+    font-family: "Oswald", sans-serif;
+    font-size: clamp(1rem, 1.25rem + 1.5vw, 3rem);
+    font-weight: 400;
+    color: #E84E0F;
+}
